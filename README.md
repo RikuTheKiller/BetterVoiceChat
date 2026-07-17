@@ -1,4 +1,4 @@
-# Better Voice Chat BepInEx Plugin
+# Better Voice Chat Mod
 A mod for Casualties: Unknown that improves multiplayer voice chat.
 
 ## Features
