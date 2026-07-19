@@ -2,9 +2,9 @@
 /shelf/
 /workspace.xml
 # Rider ignored files
-/modules.xml
-/.idea.CCLScavTemplate - Copy.iml
 /contentModel.xml
+/modules.xml
+/.idea.BetterVoiceChat.iml
 /projectSettingsUpdater.xml
 # Editor-based HTTP Client requests
 /httpRequests/
